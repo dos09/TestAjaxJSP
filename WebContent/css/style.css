@@ -1,0 +1,34 @@
+div.containerW450px {
+	width: 450px;
+	height: auto;
+	border-radius: 5px;
+	border-width: 2px;
+	border-style: solid;
+	padding: 5px;
+}
+
+div.testContainerW200px {
+	width: 200px;
+	min-height: 50px;
+	border-radius: 5px;
+	border-width: 2px;
+	border-style: solid;
+	padding: 5px;
+	margin: 5px;
+}
+
+div.circle50px {
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+	border-radius: 25px;
+}
+
+div.red {
+	border-color: red;
+	background-color: #ff9595;
+}
+
+input[type='button'] {
+	margin: 2px;
+}
